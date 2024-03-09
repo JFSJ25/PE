@@ -46,4 +46,4 @@ setTimeout(()=>{
 
 setTimeout(()=>{
     alert("¿Sigues aquí?")
-}, 40000);
+}, 90000);
