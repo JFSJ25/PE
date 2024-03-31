@@ -47,3 +47,7 @@ setTimeout(()=>{
 setTimeout(()=>{
     alert("¿Sigues aquí?")
 }, 90000);
+
+Notification.requestPermission(() => {
+    new Norification("hola")
+})
