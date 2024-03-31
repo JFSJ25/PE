@@ -49,5 +49,5 @@ setTimeout(()=>{
 }, 90000);
 
 Notification.requestPermission(() => {
-    new Norification("hola")
+    new Notification("hola")
 })
